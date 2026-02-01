@@ -1,3 +1,10 @@
-pandas
+flask
+gunicorn
 numpy
-seaborn 
+pandas
+scikit-learn
+catboost
+joblib
+dill
+python-dotenv
+    
